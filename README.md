@@ -39,3 +39,26 @@ For inquiries or suggestions, please don't hesitate to contact me via email: `co
 - Implement AI-Powered Recommendations: Develop a feature that suggests activities and places to visit based on user preferences and past trips.
 
 - Enable Trip Feedback Mechanism: Create a system where users can provide feedback on their trips, which will help refine and personalize the experience further.
+
+## License
+
+### Data License
+
+The data provided in the [Paseo Buddy (PB) repository](https://github.com/escorciav/paseo-buddy) and PB's Cloud storage folders is available for free under the following conditions:
+
+_Permitted Uses:_
+
+- Research alas GPL, i.e., you must disclose all the insights that our data enable on your work.
+- Personal &/Or hobby-driven use
+- Educational purposes
+
+_Prohibited Uses:_
+
+- Commercial use
+- Redistribution in original or modified form for commercial purposes
+
+_Conditions for Commercial Use:_
+
+Commercial use of the data, including but not limited to sale, distribution, or integration into a commercial product or service, is prohibited without an explicit data use agreement with the creators of Paseo Buddy. To inquire about or negotiate commercial use rights, please contact us directly at [@escorciav](https://github.com/escorciav).
+
+By downloading or using the data from the Paseo Buddy repository, you agree to abide by these terms. Violation of these terms may result in legal action and the revocation of access to the data.
